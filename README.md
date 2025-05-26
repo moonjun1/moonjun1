@@ -1,10 +1,10 @@
-# ✨ 안녕하세요! 미르미 여려분 ✨
+# ✨ 안녕하세요!  ✨
 
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=&fontSize=70&animation=fadeIn)
 
-  ### 🎮! 
+  ### 🎮 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&pause=1000&color=9D44F7&center=true&vCenter=true&width=435&lines=웹+개발의+모든+것을+배우고+싶어요;매일+조금씩+발전하는+중입니다)](https://git.io/typing-svg)
 </div>
