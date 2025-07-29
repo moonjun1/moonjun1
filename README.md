@@ -1,3 +1,5 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## 🍀 개발 공부 기록
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mj_o/posts)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://moonfullend.tistory.com/)
@@ -21,3 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=moonjun1&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonjun1&layout=compact&theme=radical" />
 </div>
+
+
