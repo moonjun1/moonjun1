@@ -1,11 +1,10 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-## 개발 공부 기록
+![snake gif](https://github.com/moonjun1/moonjun1/blob/output/github-contribution-grid-snake.svg)
+
+### 블로그
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mj_o/posts)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://moonfullend.tistory.com/)
-
-
-
 
 ###  SERVER
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
