@@ -34,7 +34,7 @@
 <br/>
 
 ## 🔗 Links
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@moonjun1)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@mj_o/posts)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://moonjun1.tistory.com)
 
 <br/>
