@@ -89,17 +89,15 @@
   - 안전 경로 추천 시스템 개발
 - **링크**: [BE 저장소](https://github.com/moonjun1/StreetGuardian)
 
+
 ### 🎮 DungeonTalk - AI GM과 함께하는 멀티 플레이 TRPG 게임
 - **기간**: 2024년 멋쟁이사자처럼 2차 프로젝트
 - **역할**: 
   - **POC : 사전 기술 검증**
     - Cloudflare AutoRAG
     - Spring AI
-  - **인증 & 인가 시스템**
-    - Spring Security, JWT
-  - **보안 시스템 구축**
-    - Replay Attack 방어
-    - Brute Force 방어
+  - **큐 시스템 & 매칭 시스템**
+    - Redis Queue와 Thread Pool을 활용한 매칭 시스템 개발
   - **시스템 아키텍처**
     - MongoDB 게임방 로그
     - Valkey 캐싱 & 세션
@@ -108,9 +106,7 @@
 - **성과**: 
   - **🏆 멋쟁이사자처럼 최우수상**
   - **POC를 통한 실제 데이터 기반 프로젝트 방향성 판단**
-  - **RTR 시스템 & JWT BlackList로 보안 강화**
-  - **Brute Force 공격 방어 시스템 구축**
-  - **Valkey Sentinel 자동 장애 대응 시스템**
+  - **Redis Queue & Thread Pool 기반 효율적인 매칭 시스템 구현**
   - **Valkey 캐싱으로 응답속도 99.2% 개선**
   - Discord WebHook, GitHub Canvas & Issues 활용
   - Wiki & 팀 Notion 문서화로 팀워크 향상
@@ -118,7 +114,7 @@
 
 ### 📝 Thinkeep - AI 감정 분석 일기 앱
 - **기간**: 2024년 팀 프로젝트
-- **역할**: 백엔드 팀장, Git Convention 구축, 코드 리뷰 시스템 운영
+- **역할**: 백엔드 , Git Convention 구축, 코드 리뷰 시스템 운영
 - **기술 스택**: Java, Spring Boot, AI 감정 분석, Prometheus, Grafana, JPA, MySQL
 - **성과**: 
   - **효율적인 팀워크 경험**
@@ -155,21 +151,6 @@
 <br/>
 
 
-## 🎓 Education
-
-| 기간 | 기관 | 전공/과정 | 역할 |
-|------|------|----------|------|
-| 2021.03 - 2026.07 (예정) | **대진대학교** | 컴퓨터공학과 | - |
-| 2024.12 - 2025.07 | **GDSC 연합 동아리** | 개발자 커뮤니티 | 백엔드 개발자 |
-| 2025.06 - 2025.08 | **멋쟁이 사자처럼** | 백엔드 단기 심화 부트캠프 | 수료 |
-
-<br/>
-
-## 🔗 Links
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@moonjun1)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://moonjun1.tistory.com)
-
-<br/>
 
 
 <br/>
@@ -177,15 +158,11 @@
 ---
 
 <div align="center">
-![snake gif](https://github.com/moonjun1/moonjun1/blob/output/github-contribution-grid-snake.svg)
 
 
-**💡 "Always learning, always coding, always improving!"**
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&animation=twinkling)
 
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonjun1&show_icons=true&theme=radical" />
-</div>
 
+![snake gif](https://github.com/moonjun1/moonjun1/blob/output/github-contribution-grid-snake.svg)
