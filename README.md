@@ -1,7 +1,6 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=junwon&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 ![](./profile-3d-contrib/profile-night-green.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=junwon&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 # 🚀 Backend Developer & AI Enthusiast
 
 > **"기술 뿐만이 아닌 비용까지 생각하는 개발자, 협업을 중시하고 모두가 빠른 개발을 할 수 있게 하는 개발자"**
@@ -115,7 +114,7 @@
   - **Valkey 캐싱으로 응답속도 99.2% 개선**
   - Discord WebHook, GitHub Canvas & Issues 활용
   - Wiki & 팀 Notion 문서화로 팀워크 향상
-- **링크**: [BE 저장소](https://github.com/moonjun1/dungeontalk-main) · [DB 저장소](https://github.com/moonjun1/dungeontalk-db) · [Python 저장소](https://github.com/moonjun1/dungeontalk-mvp)
+- **링크**: [BE 저장소](https://github.com/DungeonTalk/dungeontalk-backend) · [DB 저장소](https://github.com/moonjun1/dungeontalk-db) · [Python 저장소](https://github.com/DungeonTalk/python-ai-model)
 
 ### 📝 Thinkeep - AI 감정 분석 일기 앱
 - **기간**: 2024년 팀 프로젝트
@@ -151,7 +150,7 @@
   - 로컬 MySQL에서 AWS RDS로 무중단 마이그레이션 성공
   - ALB로 프론트엔드-백엔드 트래픽 분산
   - Prometheus 서버상태 실시간 모니터링
-- **링크**: [FE 저장소](https://github.com/News-Deliver/FE) · [BE 저장소](https://github.com/moonjun1/Server) · [발표 영상](https://github.com/passionryu)
+- **링크**:   [BE 저장소](https://github.com/moonjun1/News_Server) 
 
 <br/>
 
