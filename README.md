@@ -1,45 +1,44 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=junwon&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35)
-# 🚀 Backend Developer & AI Enthusiast
+#  Backend Developer & AI Enthusiast
 
 > **"기술 뿐만이 아닌 비용까지 생각하는 개발자, 협업을 중시하고 모두가 빠른 개발을 할 수 있게 하는 개발자"**
 
 <br/>
 
-## 🪪 About ME
-- 🎯 **목표**: 최적의 CPU로 최대의 효율을 지향하는 개발
-- 💡 **철학**: 사용자 중심의 안정적이고 확장 가능한 시스템 구축
-- 🌱 **성장**: 지속적인 학습과 새로운 기술 도전을 통한 전문성 향상
+##  About ME
+-  **목표**: 최적의 CPU로 최대의 효율을 지향하는 개발
+-  **철학**: 사용자 중심의 안정적이고 확장 가능한 시스템 구축
+-  **성장**: 지속적인 학습과 새로운 기술 도전을 통한 전문성 향상
 
 <br/>
 
-## 🏆 주요 성과
-- 🥇 **SW IP 해커톤 최우수상**: AI 위험도 탐지 시스템 개발 및 특허 출원
-- 🏆 **멋쟁이사자처럼 최우수상**: 던전톡 TRPG 플랫폼 백엔드 개발 및 AI RAG 구현
-- 🏅 **구름톤**: 토이 프로젝트 성공적 완주
-- 📱 **AI 일기 앱**: 감정 분석 기반 개인화 서비스 백엔드 
-- 🌐 **뉴스 배달 서비스**: 멋쟁이사자처럼 팀 프로젝트 JWT 인증/인가 및 AWS 배포
+##  수상
+-  **SW IP 해커톤 최우수상**: AI 위험도 탐지 시스템 개발 및 특허 출원
+-  **멋쟁이사자처럼 최우수상**: 던전톡 TRPG 플랫폼 백엔드 개발 및 AI RAG 구현
+
 
 <br/>
 
-## 🎓 Education
+##  Education
 
 | 기간 | 기관 | 전공/과정 | 역할 |
 |------|------|----------|------|
 | 2021.03 - 2026.07 (예정) | **대진대학교** | 컴퓨터공학과 | - |
 | 2024.12 - 2025.07 | **GDSC 연합 동아리** | 개발자 커뮤니티 | 백엔드 개발자 |
 | 2025.06 - 2025.08 | **멋쟁이 사자처럼** | 백엔드 단기 심화 부트캠프 | 수료 |
+| 2025.03 - 2025.09 | **구름톤 미르미** | 백엔드 단기 심화 부트캠프 | 수료 |
 
 <br/>
 
-## 🔗 Links
+##  Links
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@mj_o/posts)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://moonjun1.tistory.com)
 
 <br/>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -76,7 +75,7 @@
 <br/>
 
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 ### 🛡️ StreetGuardian - AI 기반 거리 안전도 분석 시스템
 - **기간**: 2024년 SW IP 해커톤
