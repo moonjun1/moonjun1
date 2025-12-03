@@ -1,16 +1,15 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=junwon&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35)
-#  Backend Developer & AI Enthusiast
+#  Backend Developer
 
-> **"기술 뿐만이 아닌 비용까지 생각하는 개발자, 협업을 중시하고 모두가 빠른 개발을 할 수 있게 하는 개발자"**
+> **"기술 뿐만이 아닌 비용까지 생각하는 개발자, 협업을 중시하고 모두가 빠른 개발을 할 수 있게 하는 개발자를 추구합니다"**
 
 <br/>
 
 ##  About ME
--  **목표**: 최적의 CPU로 최대의 효율을 지향하는 개발
+-  **목표**: 정확하고 빠른 구현 
 -  **철학**: 사용자 중심의 안정적이고 확장 가능한 시스템 구축
--  **성장**: 지속적인 학습과 새로운 기술 도전을 통한 전문성 향상
 
 <br/>
 
@@ -26,7 +25,7 @@
 | 기간 | 기관 | 전공/과정 | 역할 |
 |------|------|----------|------|
 | 2021.03 - 2026.07 (예정) | **대진대학교** | 컴퓨터공학과 | - |
-| 2024.12 - 2025.07 | **GDSC 연합 동아리** | 개발자 커뮤니티 | 백엔드 개발자 |
+| 2024.12 ~ | **GDSC 연합 동아리** | 개발자 커뮤니티 | 백엔드 개발자 |
 | 2025.06 - 2025.08 | **멋쟁이 사자처럼** | 백엔드 단기 심화 부트캠프 | 수료 |
 | 2025.03 - 2025.09 | **구름톤 미르미** | 개발자 커뮤니티 | 수료 |
 
@@ -43,8 +42,6 @@
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -53,20 +50,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-FF4438?style=flat-square&logo=valkey&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### AI & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
