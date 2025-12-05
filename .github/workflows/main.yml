@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 on:
   schedule:
-    - cron: "0 18 * * *"
+     - cron: "0 18 * * 0"  # 매주 일요일 UTC 18:00 (한국 월요일 03:00)
   workflow_dispatch:
 jobs:
   build:
