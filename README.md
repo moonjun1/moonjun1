@@ -68,18 +68,6 @@
 
 ##  Featured Projects
 
-### 🛡️ StreetGuardian - AI 기반 거리 안전도 분석 시스템
-- **기간**: 2024년 SW IP 해커톤
-- **역할**: 백엔드 개발, AI 모델 연동
-- **기술 스택**: Java, Spring Boot, AI/ML
-- **성과**: 
-  - **🥇 최우수상 수상 & 📋 특허 출원**
-  - 실시간 위험도 탐지 알고리즘 구현
-  - AI 모델과 백엔드 API 연동 최적화
-  - 안전 경로 추천 시스템 개발
-- **링크**: [BE 저장소](https://github.com/moonjun1/StreetGuardian)
-
-
 ### 🎮 DungeonTalk - AI GM과 함께하는 멀티 플레이 TRPG 게임
 - **기간**: 2024년 멋쟁이사자처럼 2차 프로젝트
 - **역할**: 
