@@ -3,19 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=junwon&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 #  Backend Developer
 
-
-<br/>
-
-##  About ME
--  **목표**: 정확하고 빠른 구현 
--  **철학**: 사용자 중심의 안정적이고 확장 가능한 시스템 구축
-
-<br/>
-
 ##  수상
 -  **SW IP 해커톤 최우수상**: AI 위험도 탐지 시스템 개발 및 특허 출원
 -  **멋쟁이사자처럼 최우수상**: 던전톡 TRPG 플랫폼 백엔드 개발 및 AI RAG 구현
-
 
 <br/>
 
@@ -62,16 +52,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br/>
-
-
-
-
-
-
-
-
-<br/>
 
 ---
 
